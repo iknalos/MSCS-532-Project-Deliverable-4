@@ -15,6 +15,8 @@ This repository contains the final deliverable of the term project:
   with full speaker notes on every slide.
 - **`Deliverable4_Presentation_Script.docx`** — the speaker script with
   per-slide timings (totals 15:00).
+- **`Deliverable4_Oral_Presentation.mp4`** — the recorded 15-minute oral
+  presentation delivered from these slides.
 - The complete, runnable system the report describes: baseline and optimized
   implementations, the 65-case contract test suite, the demo, and the
   benchmark harness with the measured results used in the report.
@@ -46,6 +48,7 @@ implementations, so every speedup comes with unchanged observable behavior.
 Deliverable4_Final_Report.docx           the comprehensive final report
 Deliverable4_Presentation.pptx           15-minute slides (speaker notes included)
 Deliverable4_Presentation_Script.docx    speaker script with per-slide timings
+Deliverable4_Oral_Presentation.mp4       recorded 15-minute oral presentation
 src/                                     Phase 2 baseline implementations
 src/optimized/                           Phase 3 optimized implementations
 tests/test_inventory.py                  65 contract tests, run against BOTH versions
